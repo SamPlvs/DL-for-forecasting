@@ -16,3 +16,8 @@ Additionally, I will have to normalise the data, since stock indexes increases i
 i.e. most values in test set are likely to be out of the scale of the train set and thus model has to predict numbers it has never seen before! 
 this will result in a poor prediction. 
 therefore to sove this issue, I normalise the prices in each sliding window and the task becomed predicting the relative change rates instead of the absolute values.
+
+
+
+
+soon I'll be adding a new version of its application (perhaps one that uses RL)
