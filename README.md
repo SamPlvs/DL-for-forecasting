@@ -1,7 +1,8 @@
 # Deep Learning for Forecasting
 
 In this project, I use Deep Learning, namely a RNN made of LSTM units to predict the bitcoin market price based on 5 input features. I hope to further build this and forecast other data types.... the aim of this repo is for me to gain more experience with data analysis and in the process also display some of my learning.
-\n Note:I am a beginner at programming and DL hence, if you have any constructive criticism / improvement tips / learning resources or anything that can help me improve myself at code + this repo then please let me know, I highly appreciate your input.
+
+Note: I am a beginner at programming and DL hence, if you have any constructive criticism / improvement tips / learning resources or anything that can help me improve myself at code + this repo then please let me know, I highly appreciate your input.
 
 Dataset attained from: https://coinmarketcap.com/
 
